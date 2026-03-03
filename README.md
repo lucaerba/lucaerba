@@ -1,6 +1,6 @@
 ## Hi there I'm Luca👋
 ## My GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaerba&langs_count=10)
+![Language Stats](stats/leaderboard_by_lines.png)
 
 <!--
 **lucaerba/lucaerba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
