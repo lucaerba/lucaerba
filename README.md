@@ -38,12 +38,12 @@ Building scalable apps, developer tools, and clean user experiences.
 <tr>
 <td>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lucaerba&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://ghstats.dev/api/card?username=lucaerba)
 
 </td>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaerba&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://ghstats.dev/api/top-langs?username=lucaerba)
 
 </td>
 </tr>
