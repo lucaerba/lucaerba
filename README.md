@@ -35,8 +35,15 @@ Building scalable apps, developer tools, and clean user experiences.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-delta-one-93.vercel.app/api?username=lucaerba&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-delta-one-93.vercel.app/api?username=lucaerba&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats-delta-one-93.vercel.app/api?username=lucaerba&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats-delta-one-93.vercel.app/api/top-langs/?username=lucaerba&count_private=true&include_all_commits=true&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"
+  />
 </p>
 ---
 
