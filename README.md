@@ -34,21 +34,10 @@ Building scalable apps, developer tools, and clean user experiences.
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td>
-
-![GitHub Stats](https://ghstats.dev/api/card?username=lucaerba)
-
-</td>
-<td>
-  
-![Top Languages](https://ghstats.dev/api/languages?username=lucaerba)
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats-delta-one-93.vercel.app/api?username=lucaerba&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-delta-one-93.vercel.app/api/top-langs/?username=lucaerba&layout=compact&theme=transparent&hide_border=true" />
+</p>
 ---
 
 ## Featured Projects
