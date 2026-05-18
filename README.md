@@ -36,38 +36,8 @@ Building scalable apps, developer tools, and clean user experiences.
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats-delta-one-93.vercel.app/api?username=lucaerba&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-  />
-
-  <img
-    height="370"
+    height="420"
     src="https://github-readme-stats-delta-one-93.vercel.app/api/top-langs/?username=lucaerba&count_private=true&include_all_commits=true&layout=compact&langs_count=15&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"
   />
 </p>
 ---
-
-## Featured Projects
-
-### Project One
-Short description of what it does and the impact.
-
-**Tech:** React, Node.js, PostgreSQL
-
-### Project Two
-Short description of what it does and the impact.
-
-**Tech:** Next.js, Prisma, Docker
-
-### Project Three
-Short description of what it does and the impact.
-
-**Tech:** Go, Redis, Kubernetes
-
----
-
-## Contact
-
-- Portfolio: https://yourwebsite.com
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
