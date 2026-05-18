@@ -41,7 +41,7 @@ Building scalable apps, developer tools, and clean user experiences.
   />
 
   <img
-    height="170"
+    height="370"
     src="https://github-readme-stats-delta-one-93.vercel.app/api/top-langs/?username=lucaerba&count_private=true&include_all_commits=true&layout=compact&langs_count=15&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"
   />
 </p>
