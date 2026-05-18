@@ -42,8 +42,8 @@ Building scalable apps, developer tools, and clean user experiences.
 
 </td>
 <td>
-
-![Top Languages](https://ghstats.dev/api/top-langs?username=lucaerba)
+  
+![Top Languages](https://ghstats.dev/api/languages?username=lucaerba)
 
 </td>
 </tr>
