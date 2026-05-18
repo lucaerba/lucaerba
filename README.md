@@ -10,8 +10,6 @@ Building scalable apps, developer tools, and clean user experiences.
 
 - Focused on backend systems, APIs, and modern web apps
 - Interested in performance, DX, and product design
-- Currently working on: **YOUR_PROJECT**
-- Based in: **YOUR_LOCATION**
 
 ---
 
